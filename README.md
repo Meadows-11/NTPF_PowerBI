@@ -13,4 +13,4 @@ Case Type: Inpatients are those who are admitted for more than 1 day & Day Cases
 Specialty_HIPE - The code used to identify the medical specialty, as per the HIPE (Hospital In-Patient Enquiry) system.
 Time Bands - indicates how long a patient has been on a waitlist on a given date.
 
-The data had empty spaces, null values, objects in the values, changed data type and had to replace some values to make the data ready for visual building. Used a couple of DAX functions to bring more utility to the project namely # AVERAGE, MEDIAN, SWITCH, VALUES, IF, ISBLANK, SUM, CALCULATE, EDATE and MAX.
+The data had empty spaces, null values, objects in the values, changed data type and had to replace some values to make the data ready for visual building. Used a couple of DAX functions to bring more utility to the project which are AVERAGE, MEDIAN, SWITCH, VALUES, IF, ISBLANK, SUM, CALCULATE, EDATE and MAX.
